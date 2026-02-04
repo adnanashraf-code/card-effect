@@ -37,7 +37,7 @@ body {
 }
 
 #main #box {
-  max-width: 250px;
+  max-width: 20vw;
   padding-inline: 10px;
   padding-bottom: 10px;
   display: flex;
